@@ -1,5 +1,5 @@
 # Internship_project
-project to create Customer Segmentation for Arvato Financial Services
+1. project to create Customer Segmentation for Arvato Financial Services
 In this project, we are provided with demographic data of customers of a mail-order company in Germany and demographic data of general population of Germany. Using this data, we are required to identify new customers for the company.
 
 We approach this project in 2 phases:
